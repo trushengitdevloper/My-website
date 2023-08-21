@@ -1,0 +1,20 @@
+{
+  "intro": "Hello",
+  "heroPhoto": {
+    "src": "../../images/heroicon.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Soalnki Trushen",
+  "subtitle": {
+    "highlight": "COMPUTER ENGINEER"
+  },
+  "description": "I am Passionate designer and programmer",
+  "socialProfiles": {
+    "from": ["LinkedIn","Github", "Mail"],
+    "showIcons": false
+  }
+}

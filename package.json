@@ -1,0 +1,43 @@
+{
+  "name": "gatsby-starter-portfolio-minimal-theme",
+  "version": "1.0.0",
+
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^5.0.1",
+    "gatsby-theme-portfolio-minimal": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": "Solanki Trushen>",
+  "license": "0BSD",
+  "starter-name": "Solanki-trushen-portfolio",
+  "homepage": "https://github.com/trushengitdevloper?tab=repositories",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trushengitdevloper?tab=repositories"
+  },
+  "bugs": {
+    "url": "https://github.com/trushengitdevloper?tab=repositories"
+  },
+  "keywords": [
+    "react",
+    "gatsby",
+    "gatsby-theme",
+    "PWA",
+    "portfolio",
+    "showcase",
+    "minimal",
+    "animations",
+    "dark-mode",
+    "gdpr-compliant"
+  ]
+}

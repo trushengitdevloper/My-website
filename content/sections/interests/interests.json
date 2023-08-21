@@ -1,0 +1,65 @@
+{
+  "interests": [
+    {
+      "label": "JAVA Programming",
+      "image": {
+        "src": "../../images/java.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "REACT Programming",
+      "image": {
+        "src": "../../images/science.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Responsive Design",
+      "image": {
+        "src": "../../images/software.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Logo Design",
+      "image": {
+        "src": "../../images/logo.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "UI/UX Design",
+      "image": {
+        "src": "../../images/designer.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Web Development",
+      "image": {
+        "src": "../../images/web.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Wireframe Design",
+      "image": {
+        "src": "../../images/prototype.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "JS Programming",
+      "image": {
+        "src": "../../images/javas.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "👨‍💻 JAVA Project",
+      "title": "ATMT(Any Time Movie Tickets!",
+      "description": "it’s my academic java in python it’s system which is similar to the book my show Our Process / What We Did:  create a system which will take user age if user is 18+ then system allow user to buy ticket and if user is not 18+ user can’t buy ticket reliable and fast system which verify user age and give him result’s and also provide multiple functionalities.  ",
+      "tags": ["JAVA Project", "Academic Project"],
+      "image": {
+        "src": "../../images/unsplash.jpg",
+        "alt": "image of java ",
+        "linkTo": "https://github.com/trushengitdevloper?tab=repositories"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/trushengitdevloper?tab=repositories"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/solankitrushen/"
+        },
+         {
+          "type": "linkedin",
+          "url": "https://www.linkedin.com/in/solanki-trushen-874349248/"
+        }
+        ,
+         {
+          "type": "discord",
+          "url": "https://discord.com/channels/@me"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "💼 Portfolio",
+      "title": "My Previous Portfolio!",
+      "description": "My prior portfolio showcased diverse projects, emphasizing web development expertise in crafting user-centric, responsive sites.it highlighted graphic design proficiency, featuring striking logos and branding materials. Overall, it exemplified versatility in technology, and design, showcasing a history of effective solutions.",
+      "tags": ["Portfolio", "Previous Portfolio"],
+      "image": {
+        "src": "../../images/unsplash1.jpg",
+        "alt": "image of coding"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/trushengitdevloper?tab=repositories"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/solankitrushen/"
+        },
+         {
+          "type": "linkedin",
+          "url": "https://www.linkedin.com/in/solanki-trushen-874349248/"
+        }
+        ,
+         {
+          "type": "discord",
+          "url": "https://discord.com/channels/@me"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🐍 PYTHON Project",
+      "title": "ATMT(Any Time Movie Tickets!",
+      "description": "it’s my academic project in python it’s system which is similar to the book my show Our Process / What We Did:  create a system which will take user age if user is 18+ then system allow user to buy ticket and if user is not 18+ user can’t buy ticket reliable and fast system which verify user age and give him result’s and also provide multiple functionalities.  ",
+      "tags": ["PYTHON Project", "Academic Project"],
+      "image": {
+        "src": "../../images/unsplash2.jpg",
+        "alt": "image of java ",
+        "linkTo": "https://github.com/trushengitdevloper?tab=repositories"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/trushengitdevloper?tab=repositories"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/solankitrushen/"
+        },
+         {
+          "type": "linkedin",
+          "url": "https://www.linkedin.com/in/solanki-trushen-874349248/"
+        }
+        ,
+         {
+          "type": "discord",
+          "url": "https://discord.com/channels/@me"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Let's Chat 💬",
+    "url": "https://wa.me/9313276431"
+  }
+}

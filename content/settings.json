@@ -1,0 +1,39 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://portfolio-solanki-trushen.netlify.app/",
+    "title": "Portfolio Solanki Trushen",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "avatar": "../content/images/gatsby.png",
+    "social": {
+      "github": "https://github.com/trushengitdevloper?tab=repositories",
+      "medium": "https://konstantinmuenster.medium.com",
+      "linkedin": "https://www.linkedin.com/in/solanki-trushen-874349248/",
+      "mail": "mailto:solankitrushen@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "TRUSHEN.Folio" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Projects", "url": "/#features" },
+        { "label": "Contact", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Let's Chat", "url": "https://wa.me/9313276431" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

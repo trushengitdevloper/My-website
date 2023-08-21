@@ -1,0 +1,12 @@
+{
+  "name": "Solanki Trushen",
+  "email": "solankitrushen@gmail.com",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "My Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}
