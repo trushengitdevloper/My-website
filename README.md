@@ -25,4 +25,4 @@ Unleash Your Creativity 👨‍🎨<br> Explore 🎒 Trushen's Dynamic ⚛ Graph
     Explore a world where captivating designs, intuitive user experiences, and powerful programming <br>
     come together.With a diverse skill set ranging from graphic design to programming languages, <br> 
     I'm ready to take on any creative challenge that comes my way! 🌟🚀</h4>
-# Visit my previous portfolio 💼 website 🌐 to witness the magic firsthand https://solanki-trushen.netlify.app/
+# Visit my previous portfolio 💼 website 🌐 https://portfolio-trushen-solanki.super.site/
