@@ -1,5 +1,6 @@
 <h1><p align="center">
-Unleash Your Creativity 👨‍🎨<br> Explore 🎒 Trushen's Dynamic ⚛ Graphic Design 🎨 Portfolio 🌐
+Unleash Your Creativity 👨‍🎨<br> Explore 🎒 Trushen's Dynamic ⚛ Graphic Design 🎨 Portfolio 🌐<br>
+  https://solanki-trushen.netlify.app/
 </p></h1>
 ## Unleash Your Imagination with Captivating Designs 🎨🌈
 * Graphic Design: Creating visually stunning designs that captivate and inspire.
