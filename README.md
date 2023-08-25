@@ -20,7 +20,7 @@ Unleash Your Creativity 👨‍🎨<br> Explore 🎒 Trushen's Dynamic ⚛ Graph
 * C++: Building robust and scalable software applications.
 * Java: Developing cross-platform applications and enterprise-level software.
 
-  <h6>Step into my portfolio and witness the fusion of creativity and technical skills! 
+  <h4>Step into my portfolio and witness the fusion of creativity and technical skills! 
     Explore a world where captivating designs, intuitive user experiences, and powerful programming come together. 
     With a diverse skill set ranging from graphic design to programming languages, 
-    I'm ready to take on any creative challenge that comes my way! 🌟🚀</h6>
+    I'm ready to take on any creative challenge that comes my way! 🌟🚀</h4>
