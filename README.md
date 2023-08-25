@@ -1,4 +1,4 @@
-#💼 Portfolio https://solanki-trushen.netlify.app/
+# 💼 Portfolio https://solanki-trushen.netlify.app/
 🎨🌟 Step into my creative universe and embark on a journey through 
 my dynamic portfolio! 🚀✨ Immerse yourself in a captivating showcase of 
 my skills, accomplishments, and creative endeavors. 🎉🎨
