@@ -12,7 +12,8 @@ Unleash Your Creativity 👨‍🎨<br> Explore 🎒 Trushen's Dynamic ⚛ Graph
 
 ## Crafting Intuitive User Experiences with UI/UX Design 💻🎨
 * UI/UX Design: Designing user-friendly interfaces that enhance the user experience.
-* Heading 3: "Bringing Websites to Life with Frontend Development!" 🌐💻
+
+## Bringing Websites to Life with Frontend Development 🌐💻
 * Frontend Development: Building interactive and responsive websites using HTML, CSS, and JavaScript.
 * React: Developing dynamic web applications using the React framework.
 
